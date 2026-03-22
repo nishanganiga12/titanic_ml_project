@@ -60,4 +60,4 @@ The dataset is taken from the Kaggle Titanic competition and includes passenger 
 
 ## 🙌 Author
 
-Your Name
+nishan ganiga
